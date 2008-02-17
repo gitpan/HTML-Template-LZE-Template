@@ -1,0 +1,22 @@
+---
+name: HTML-Template-LZE-Template
+version: 0.24
+author:
+  - 'Dirk Lindner <lindnerei@o2online.de>'
+abstract: Simple HTML Template
+license: lgpl
+resources:
+  license: http://opensource.org/licenses/artistic-license.php
+requires:
+  CGI::LZE: 0.24
+  Module::Build: 0
+  Test::More: 0
+  Test::Signature: 1.1
+provides:
+  HTML::Template::LZE::Template:
+    file: lib/HTML/Template/LZE/Template.pm
+    version: 0.24
+generated_by: Module::Build version 0.2808
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2

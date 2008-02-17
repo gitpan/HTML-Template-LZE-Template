@@ -1,0 +1,6 @@
+Revision history for Perl HTML::Template::LZE::Template 0.24
+0.24
+       refactoring.
+0.01  Sun Jan 22 01:37:35 2006
+	- original version; created by h2xs 1.23 with options
+		-XAn  HTML::Template::LZE::Template
